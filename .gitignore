@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Large data (raw source + derived) — kept on disk, excluded from git
+oh/
+shared/data/
+
+# Backups (historical snapshots — kept on disk, not in git)
+*.bak
+*.audit_bak
+
+# Claude local settings (local API token) + session/project data (lives in ~/.claude)
+.claude/settings.local.json
+.claude/projects/
+
+# Working split archive (unpacked copy lives in shared/split_addresses/)
+shared/split_addresses.zip

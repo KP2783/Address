@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(time python3 43232_project/scripts/extract_43232.py)",
+      "Bash(time python3 43232_project/scripts/make_parcels_43232.py)",
+      "Bash(time python3 43232_project/scripts/match_parcels_43232.py)",
+      "Bash(python3 -)",
+      "Bash(time python3 43232_project/scripts/finalize_43232.py)",
+      "Bash(time python3 43232_project/scripts/census_validate_43232.py)",
+      "Bash(awk '{print \"  \"$5\"  \"$9}')",
+      "Bash(time python3 43232_project/scripts/recover_43232.py)",
+      "Bash(time python3 43232_project/scripts/spatial_validate_43232.py)",
+      "Bash(time python3 shared/scripts/run_zip_pipeline.py 43227)"
+    ]
+  }
+}

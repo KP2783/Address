@@ -1,0 +1,348 @@
+====================================================================================================
+BUSINESS PATTERN ANALYSIS FOR 43223
+====================================================================================================
+
+
+====================================================================================================
+ROUND STREET NUMBERS (ending in 00) - 271 addresses
+Often commercial properties: stores, offices, shopping centers
+====================================================================================================
+
+1000 Campbell Ave, Columbus, OH 43223
+1000 Clarendon Ave, Columbus, OH 43223
+1000 Forest Creek Dr, Columbus, OH 43223
+1000 Frank Rd, Columbus, OH 43223
+1000 Frank Rd, Columbus, OH 43223
+1000 Frank Rd, Columbus, OH 43223
+1000 Greenlawn Ave, Columbus, OH 43223
+1000 Greenlawn Ave, Columbus, OH 43223
+1000 Greenlawn Ave, Columbus, OH 43223
+1000 Harrisburg Pike, Columbus, OH 43223
+1000 Harrisburg Pike, Columbus, OH 43223
+1000 Hart Rd, Columbus, OH 43223
+1000 Holloway Ave, Columbus, OH 43223
+1000 W Mound St, Columbus, OH 43223
+1100 Forest Dr, Columbus, OH 43223
+1100 Frank Rd, Columbus, OH 43223
+1100 Geneva Ave, Columbus, OH 43223
+1100 Harrisburg Pike, Columbus, OH 43223
+1200 Campbell Ave, Columbus, OH 43223
+1200 Forest Dr, Columbus, OH 43223
+1200 Frank Rd, Columbus, OH 43223
+1200 Sullivant Ave, Columbus, OH 43223
+1200 Woodbrook Ln A, Columbus, OH 43223
+1200 Woodbrook Ln B, Columbus, OH 43223
+1200 Woodbrook Ln C, Columbus, OH 43223
+1200 Woodbrook Ln D, Columbus, OH 43223
+1200 Woodbrook Ln, Columbus, OH 43223
+1200 Woodbrook Ln, Columbus, OH 43223
+1200 Woodbrook Ln, Columbus, OH 43223
+1200 Woodbrook Ln, Columbus, OH 43223
+1300 Brown Rd, Columbus, OH 43223
+1300 Deckebach Rd, Columbus, OH 43223
+1300 Emig Rd, Columbus, OH 43223
+1300 Harrisburg Pike, Columbus, OH 43223
+1300 Hart Rd, Columbus, OH 43223
+1300 Little Ave, Columbus, OH 43223
+1300 Woodbrook Ln Cn A, Columbus, OH 43223
+1300 Woodbrook Ln Cn B, Columbus, OH 43223
+1300 Woodbrook Ln Cn C, Columbus, OH 43223
+1300 Woodbrook Ln Cn D, Columbus, OH 43223
+1300 Woodbrook Ln Cn E, Columbus, OH 43223
+1300 Woodbrook Ln Cn F, Columbus, OH 43223
+1300 Woodbrook Ln Cn G, Columbus, OH 43223
+1300 Woodbrook Ln Cn H, Columbus, OH 43223
+1300 Woodbrook Ln, Columbus, OH 43223
+1400 Brown Rd, Columbus, OH 43223
+1400 Buffalo Creek Ct, Columbus, OH 43223
+1400 Gorham Dr, Columbus, OH 43223
+1400 Harmon Ave, Columbus, OH 43223
+1400 Marsdale Ave, Columbus, OH 43223
+
+... and 221 more
+
+
+====================================================================================================
+VERY LOW STREET NUMBERS (< 100) - 216 addresses
+Often institutional/commercial in urban areas
+====================================================================================================
+
+11 Belvidere Ave, Columbus, OH 43223
+13 Belvidere Ave, Columbus, OH 43223
+15 Belvidere Ave, Columbus, OH 43223
+15 Whitethorne Ave, Columbus, OH 43223
+17 Belvidere Ave, Columbus, OH 43223
+17 Whitethorne Ave, Columbus, OH 43223
+18 Belvidere Ave, Columbus, OH 43223
+18 Whitethorne Ave, Columbus, OH 43223
+19 S Highland Ave, Columbus, OH 43223
+19 Whitethorne Ave, Columbus, OH 43223
+20 Belvidere Ave, Columbus, OH 43223
+20 Whitethorne Ave, Columbus, OH 43223
+21 Clarendon Ave, Columbus, OH 43223
+22 Belvidere Ave, Columbus, OH 43223
+22 Whitethorne Ave, Columbus, OH 43223
+23 Whitethorne Ave, Columbus, OH 43223
+24 Belvidere Ave, Columbus, OH 43223
+24 Whitethorne Ave, Columbus, OH 43223
+26 Whitethorne Ave, Columbus, OH 43223
+27 Lechner Ave, Columbus, OH 43223
+27 Midland Ave, Columbus, OH 43223
+28 Midland Ave, Columbus, OH 43223
+29 Belvidere Ave, Columbus, OH 43223
+29 Midland Ave, Columbus, OH 43223
+29 Whitethorne Ave, Columbus, OH 43223
+3 Belvidere Ave, Columbus, OH 43223
+30 Midland Ave, Columbus, OH 43223
+31 Belvidere Ave, Columbus, OH 43223
+32 Belvidere Ave, Columbus, OH 43223
+32 Belvidere Ave, Columbus, OH 43223
+32 Clarendon Ave, Columbus, OH 43223
+33 Belvidere Ave, Columbus, OH 43223
+33 Midland Ave, Columbus, OH 43223
+33 S Highland Ave, Columbus, OH 43223
+33 Whitethorne Ave, Columbus, OH 43223
+33 Whitethorne Ave, Columbus, OH 43223
+34 Midland Ave, Columbus, OH 43223
+36 Midland Ave, Columbus, OH 43223
+36 Whitethorne Ave, Columbus, OH 43223
+37 1/2 S Highland Ave, Columbus, OH 43223
+37 Belvidere Ave, Columbus, OH 43223
+37 Midland Ave A, Columbus, OH 43223
+37 S Highland Ave, Columbus, OH 43223
+38 Midland Ave, Columbus, OH 43223
+38 Whitethorne Ave, Columbus, OH 43223
+39 Whitethorne Ave, Columbus, OH 43223
+40 Clarendon Ave, Columbus, OH 43223
+40 Midland Ave, Columbus, OH 43223
+40 S Highland Ave, Columbus, OH 43223
+40 Whitethorne Ave, Columbus, OH 43223
+41 Midland Ave, Columbus, OH 43223
+42 Whitethorne Ave, Columbus, OH 43223
+43 Belvidere Ave, Columbus, OH 43223
+43 S Highland Ave, Columbus, OH 43223
+44 Whitethorne Ave, Columbus, OH 43223
+45 Belvidere Ave, Columbus, OH 43223
+45 Belvidere Ave, Columbus, OH 43223
+45 Clarendon Ave, Columbus, OH 43223
+45 Midland Ave, Columbus, OH 43223
+45 S Highland Ave, Columbus, OH 43223
+46 Clarendon Ave, Columbus, OH 43223
+46 Midland Ave, Columbus, OH 43223
+47 Whitethorne Ave, Columbus, OH 43223
+48 1/2 Whitethorne Ave, Columbus, OH 43223
+48 Clarendon Ave, Columbus, OH 43223
+48 Midland Ave, Columbus, OH 43223
+48 Whitethorne Ave, Columbus, OH 43223
+49 S Highland Ave, Columbus, OH 43223
+5 Belvidere Ave, Columbus, OH 43223
+5 Clarendon Ave, Columbus, OH 43223
+50 1/2 Whitethorne Ave, Columbus, OH 43223
+50 Midland Ave, Columbus, OH 43223
+50 Whitethorne Ave, Columbus, OH 43223
+51 Belvidere Ave, Columbus, OH 43223
+51 Midland Ave, Columbus, OH 43223
+51 S Highland Ave, Columbus, OH 43223
+51 Whitethorne Ave, Columbus, OH 43223
+52 Clarendon Ave, Columbus, OH 43223
+52 Midland Ave, Columbus, OH 43223
+53 1/2 Belvidere Ave, Columbus, OH 43223
+53 Belvidere Ave, Columbus, OH 43223
+54 Whitethorne Ave, Columbus, OH 43223
+55 Belvidere Ave, Columbus, OH 43223
+55 S Highland Ave, Columbus, OH 43223
+55 Whitethorne Ave, Columbus, OH 43223
+56 N Wheatland Ave, Columbus, OH 43223
+56 S Highland Ave, Columbus, OH 43223
+57 Belvidere Ave, Columbus, OH 43223
+57 Whitethorne Ave, Columbus, OH 43223
+58 Belvidere Ave, Columbus, OH 43223
+58 Clarendon Ave, Columbus, OH 43223
+58 Clarendon Ave, Columbus, OH 43223
+58 Midland Ave, Columbus, OH 43223
+58 Whitethorne Ave, Columbus, OH 43223
+59 Midland Ave, Columbus, OH 43223
+59 S Highland Ave, Columbus, OH 43223
+61 Whitethorne Ave, Columbus, OH 43223
+62 Belvidere Ave, Columbus, OH 43223
+62 Clarendon Ave, Columbus, OH 43223
+63 Belvidere Ave, Columbus, OH 43223
+63 Midland Ave, Columbus, OH 43223
+63 S Highland Ave, Columbus, OH 43223
+63 Whitethorne Ave, Columbus, OH 43223
+64 Midland Ave, Columbus, OH 43223
+64 S Highland Ave, Columbus, OH 43223
+64 Whitethorne Ave, Columbus, OH 43223
+65 Whitethorne Ave, Columbus, OH 43223
+66 S Highland Ave, Columbus, OH 43223
+66 Whitethorne Ave, Columbus, OH 43223
+67 Midland Ave, Columbus, OH 43223
+67 S Highland Ave, Columbus, OH 43223
+68 Clarendon Ave, Columbus, OH 43223
+68 Midland Ave, Columbus, OH 43223
+68 Whitethorne Ave, Columbus, OH 43223
+69 Belvidere Ave, Columbus, OH 43223
+69 S Highland Ave, Columbus, OH 43223
+69 Whitethorne Ave, Columbus, OH 43223
+7 Belvidere Ave, Columbus, OH 43223
+70 Belvidere Ave, Columbus, OH 43223
+71 Belvidere Ave, Columbus, OH 43223
+71 Clarendon Ave, Columbus, OH 43223
+71 S Highland Ave, Columbus, OH 43223
+72 Clarendon Ave, Columbus, OH 43223
+73 Midland Ave, Columbus, OH 43223
+73 S Highland Ave, Columbus, OH 43223
+73 Whitethorne Ave, Columbus, OH 43223
+74 Clarendon Ave, Columbus, OH 43223
+74 Midland Ave, Columbus, OH 43223
+74 Whitethorne Ave, Columbus, OH 43223
+75 Belvidere Ave, Columbus, OH 43223
+75 Midland Ave, Columbus, OH 43223
+75 Whitethorne Ave, Columbus, OH 43223
+76 Belvidere Ave, Columbus, OH 43223
+76 Midland Ave, Columbus, OH 43223
+77 S Highland Ave, Columbus, OH 43223
+79 Midland Ave, Columbus, OH 43223
+79 S Highland Ave, Columbus, OH 43223
+79 Whitethorne Ave, Columbus, OH 43223
+80 Clarendon Ave, Columbus, OH 43223
+80 Midland Ave, Columbus, OH 43223
+81 Midland Ave, Columbus, OH 43223
+81 S Highland Ave, Columbus, OH 43223
+81 Whitethorne Ave, Columbus, OH 43223
+82 Belvidere Ave, Columbus, OH 43223
+82 Whitethorne Ave, Columbus, OH 43223
+83 Belvidere Ave, Columbus, OH 43223
+83 Lechner Ave, Columbus, OH 43223
+83 S Highland Ave, Columbus, OH 43223
+83 Whitethorne Ave, Columbus, OH 43223
+84 Clarendon Ave, Columbus, OH 43223
+84 Clarendon Ave, Columbus, OH 43223
+85 Clarendon Ave, Columbus, OH 43223
+85 Lechner Ave, Columbus, OH 43223
+85 Midland Ave, Columbus, OH 43223
+85 S Highland Ave, Columbus, OH 43223
+86 Midland Ave, Columbus, OH 43223
+86 S Highland Ave, Columbus, OH 43223
+87 Belvidere Ave, Columbus, OH 43223
+87 Lechner Ave, Columbus, OH 43223
+88 Belvidere Ave, Columbus, OH 43223
+88 S Highland Ave, Columbus, OH 43223
+88 Whitethorne Ave, Columbus, OH 43223
+89 Lechner Ave, Columbus, OH 43223
+89 Midland Ave, Columbus, OH 43223
+89 Whitethorne Ave, Columbus, OH 43223
+9 Belvidere Ave, Columbus, OH 43223
+90 1/2 Midland Ave, Columbus, OH 43223
+90 Midland Ave, Columbus, OH 43223
+91 Lechner Ave, Columbus, OH 43223
+91 Whitethorne Ave, Columbus, OH 43223
+92 Belvidere Ave, Columbus, OH 43223
+92 Clarendon Ave, Columbus, OH 43223
+92 Clarendon Ave, Columbus, OH 43223
+92 S Highland Ave, Columbus, OH 43223
+93 Belvidere Ave, Columbus, OH 43223
+93 Lechner Ave, Columbus, OH 43223
+94 Belvidere Ave, Columbus, OH 43223
+94 Whitethorne Ave, Columbus, OH 43223
+95 Midland Ave, Columbus, OH 43223
+95 Whitethorne Ave, Columbus, OH 43223
+96 Midland Ave, Columbus, OH 43223
+96 N Wheatland Ave, Columbus, OH 43223
+96 S Highland Ave, Columbus, OH 43223
+97 I-70 E Overpass Sullivant Ave, Columbus, OH 43223
+97 I-70 E Overpass W Broad St, Columbus, OH 43223
+97 I-70 E Overpass W Town St, Columbus, OH 43223
+97 I-70 E, Columbus, OH 43223
+97 I-70 W Overpass Sullivant Ave, Columbus, OH 43223
+97 I-70 W Overpass W Broad St, Columbus, OH 43223
+97 I-70 W Overpass W Town St, Columbus, OH 43223
+97 I-70 W, Columbus, OH 43223
+97 Whitethorne Ave, Columbus, OH 43223
+98 Clarendon Ave, Columbus, OH 43223
+98 Clarendon Ave, Columbus, OH 43223
+98 I-70 E Overpass S Central Ave, Columbus, OH 43223
+98 I-70 E Overpass S Cypress Ave, Columbus, OH 43223
+98 I-70 E Overpass S Glenwood Ave, Columbus, OH 43223
+98 I-70 E Overpass S Souder Ave, Columbus, OH 43223
+98 I-70 E, Columbus, OH 43223
+98 I-70 W Overpass S Central Ave, Columbus, OH 43223
+98 I-70 W Overpass S Cypress Ave, Columbus, OH 43223
+98 I-70 W Overpass S Glenwood Ave, Columbus, OH 43223
+98 I-70 W Overpass S Souder Ave, Columbus, OH 43223
+98 I-70 W, Columbus, OH 43223
+98 Whitethorne Ave, Columbus, OH 43223
+99 Belvidere Ave, Columbus, OH 43223
+99 I-70 E, Columbus, OH 43223
+99 I-70 W, Columbus, OH 43223
+99 S Highland Ave A, Columbus, OH 43223
+99 S Highland Ave B, Columbus, OH 43223
+99 S Highland Ave C, Columbus, OH 43223
+99 S Highland Ave D, Columbus, OH 43223
+99 S Highland Ave E, Columbus, OH 43223
+99 S Highland Ave F, Columbus, OH 43223
+99 S Highland Ave, Columbus, OH 43223
+99 Whitethorne Ave, Columbus, OH 43223
+
+
+====================================================================================================
+SUITE/OFFICE DESIGNATIONS - 25 addresses
+Office buildings, commercial suites
+====================================================================================================
+
+3327 Western Hill Ct, Columbus, OH 43223
+3333 Western Hill Ct, Columbus, OH 43223
+3336 Western Hill Ct, Columbus, OH 43223
+3339 Western Hill Ct, Columbus, OH 43223
+3342 Western Hill Ct, Columbus, OH 43223
+3345 Western Hill Ct, Columbus, OH 43223
+3348 Western Hill Ct, Columbus, OH 43223
+3351 Western Hill Ct, Columbus, OH 43223
+3371 Western Hill Rd, Columbus, OH 43223
+3372 Western Hill Rd, Columbus, OH 43223
+3377 Western Hill Rd, Columbus, OH 43223
+3378 Western Hill Rd, Columbus, OH 43223
+3383 Western Hill Rd, Columbus, OH 43223
+3384 Western Hill Rd, Columbus, OH 43223
+3389 Western Hill Ct, Columbus, OH 43223
+3389 Western Hill Rd, Columbus, OH 43223
+3390 Western Hill Rd, Columbus, OH 43223
+3395 Western Hill Rd, Columbus, OH 43223
+3396 Western Hill Rd, Columbus, OH 43223
+3401 Western Hill Rd, Columbus, OH 43223
+3402 Western Hill Rd, Columbus, OH 43223
+3407 Western Hill Rd, Columbus, OH 43223
+3408 Western Hill Rd, Columbus, OH 43223
+3414 Western Hill Rd, Columbus, OH 43223
+3420 Western Hill Rd, Columbus, OH 43223
+
+
+====================================================================================================
+INSTITUTIONAL KEYWORDS - 24 addresses
+Schools, churches, government buildings, public facilities
+====================================================================================================
+
+1317 Briggs Center Dr, Columbus, OH 43223
+1319 Briggs Center Dr, Columbus, OH 43223
+1325 Briggs Center Dr, Columbus, OH 43223
+1327 Briggs Center Dr, Columbus, OH 43223
+1332 Briggs Center Dr, Columbus, OH 43223
+1334 Briggs Center Dr, Columbus, OH 43223
+1945 Zettler Center Dr, Columbus, OH 43223
+1949 Zettler Center Dr, Columbus, OH 43223
+1953 Zettler Center Dr, Columbus, OH 43223
+1957 Zettler Center Dr, Columbus, OH 43223
+1961 Zettler Center Dr, Columbus, OH 43223
+1965 Zettler Center Dr, Columbus, OH 43223
+1969 Zettler Center Dr, Columbus, OH 43223
+1973 Zettler Center Dr, Columbus, OH 43223
+1977 Zettler Center Dr, Columbus, OH 43223
+1981 Zettler Center Dr, Columbus, OH 43223
+1985 Zettler Center Dr, Columbus, OH 43223
+1989 Zettler Center Dr, Columbus, OH 43223
+1993 Zettler Center Dr, Columbus, OH 43223
+2001 Zettler Center Dr, Columbus, OH 43223
+2009 Zettler Center Dr, Columbus, OH 43223
+2013 Zettler Center Dr, Columbus, OH 43223
+2017 Zettler Center Dr, Columbus, OH 43223
+2021 Zettler Center Dr, Columbus, OH 43223

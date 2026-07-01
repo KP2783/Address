@@ -1,0 +1,209 @@
+REVIEW CANDIDATES FOR 43223
+===========================
+
+--- Suspicious Street Names (6) ---
+1325 Briggs Center Dr
+1317 Briggs Center Dr
+1327 Briggs Center Dr
+1334 Briggs Center Dr
+1332 Briggs Center Dr
+1319 Briggs Center Dr
+
+--- Commercial Keywords (6) ---
+1325 Briggs Center Dr [Match: CENTER]
+1317 Briggs Center Dr [Match: CENTER]
+1327 Briggs Center Dr [Match: CENTER]
+1334 Briggs Center Dr [Match: CENTER]
+1332 Briggs Center Dr [Match: CENTER]
+1319 Briggs Center Dr [Match: CENTER]
+
+--- Mixed Streets (Non-Unit) (34) ---
+(Check if these are single family homes or businesses)
+2520 Briggs Rd
+2512 Briggs Rd
+2594 Briggs Rd
+2530 Briggs Rd
+2590 Briggs Rd
+2538 Briggs Rd
+2516 Briggs Rd
+2558 Briggs Rd
+2562 Briggs Rd
+2555 Briggs Rd
+2293 Briggs Rd
+2350 Briggs Rd
+2330 Briggs Rd
+2719 Briggs Rd
+2337 Briggs Rd
+2751 Briggs Rd
+2339 Briggs Rd
+2735 Briggs Rd
+2300 Briggs Rd
+2707 Briggs Rd
+2727 Briggs Rd
+2402 Briggs Rd
+2478 Briggs Rd
+2400 Briggs Rd
+2699 Briggs Rd
+2691 Briggs Rd
+2683 Briggs Rd
+2546 Briggs Rd
+2743 Briggs Rd
+2478 1/2 Briggs Rd
+2651 Briggs Rd
+2405 Briggs Rd
+2563 Briggs Rd
+2602 Briggs Rd
+
+--- Mixed Streets (Units/Apts) (150) ---
+(Likely apartments, but check for 'Suite' or commercial units)
+1198 Harmon Ave Unit 16
+2171 Frank Rd Apt R
+2171 W Mound St Apt D
+2173 W Mound St Apt A
+2163 W Mound St Apt B
+2051 Sullivant Ave Unit B
+2171 W Mound St Apt B
+2177 W Mound St Apt A
+2171 W Mound St Apt C
+2157 W Mound St Apt C
+2163 W Mound St Apt A
+2167 W Mound St Apt D
+1845 Sullivant Ave Unit B
+1887 Sullivant Ave Apt A
+1291 W Mound St Unit Grge
+2161 W Mound St Apt C
+1287 Sullivant Ave Unit A
+2157 W Mound St Apt A
+2169 W Mound St Apt B
+2177 W Mound St Apt D
+1561 Sullivant Ave Unit A
+1845 Sullivant Ave Unit D
+1561 Sullivant Ave Unit D
+2169 W Mound St Apt A
+1287 Sullivant Ave Unit C
+2175 W Mound St Apt A
+1641 Sullivant Ave Unit A
+2165 W Mound St Apt D
+2165 W Mound St Apt A
+1887 Sullivant Ave Apt B
+2161 W Mound St Apt B
+1657 Sullivant Ave Unit D
+1565 Sullivant Ave Unit K
+2173 W Mound St Apt C
+2159 W Mound St Apt C
+2175 W Mound St Apt C
+1641 Sullivant Ave Unit D
+2163 W Mound St Apt D
+2165 W Mound St Apt C
+1287 Sullivant Ave Unit D
+2177 W Mound St Apt B
+2159 W Mound St Apt A
+1657 Sullivant Ave Unit A
+1287 Sullivant Ave Unit B
+2254 1/2 Sullivant Ave Apt B
+2254 1/2 Sullivant Ave Apt A
+1561 Sullivant Ave Unit F
+2173 W Mound St Apt B
+2175 W Mound St Apt D
+1641 Sullivant Ave Unit B
+2171 W Mound St Apt A
+2173 W Mound St Apt D
+1565 Sullivant Ave Unit G
+1561 Sullivant Ave Unit C
+1565 Sullivant Ave Unit I
+2157 W Mound St Apt D
+2157 W Mound St Apt B
+1561 Sullivant Ave Unit B
+2159 W Mound St Apt B
+1561 Sullivant Ave Unit E
+2165 W Mound St Apt B
+2175 W Mound St Apt B
+2167 W Mound St Apt A
+1887 Sullivant Ave Apt C
+2167 W Mound St Apt C
+1565 Sullivant Ave Unit J
+2177 W Mound St Apt C
+1565 Sullivant Ave Unit H
+2169 W Mound St Apt C
+2161 W Mound St Apt D
+1845 Sullivant Ave Unit A
+1641 Sullivant Ave Unit C
+2161 W Mound St Apt A
+2163 W Mound St Apt C
+1845 Sullivant Ave Unit C
+1657 Sullivant Ave Unit C
+2159 W Mound St Apt D
+2167 W Mound St Apt B
+1657 Sullivant Ave Unit B
+2169 W Mound St Apt D
+1709 Frank Rd Unit Vngr
+862 Frank Rd Unit S-2
+1662 Harrisburg Pike Apt 219
+1662 Harrisburg Pike Apt 208
+1662 Harrisburg Pike Apt 204
+1662 Harrisburg Pike Apt 113
+1662 Harrisburg Pike Apt 206
+1662 Harrisburg Pike Apt 109
+1662 Harrisburg Pike Apt 110
+1662 Harrisburg Pike Apt 104
+1662 Harrisburg Pike Apt 118
+1662 Harrisburg Pike Apt 117
+1662 Harrisburg Pike Apt 201
+1662 Harrisburg Pike Apt 108
+1662 Harrisburg Pike Apt 214
+1662 Harrisburg Pike Apt 207
+1662 Harrisburg Pike Apt 212
+1662 Harrisburg Pike Apt 209
+1662 Harrisburg Pike Apt 111
+1662 Harrisburg Pike Apt 101
+1662 Harrisburg Pike Apt 210
+1662 Harrisburg Pike Apt 221
+1662 Harrisburg Pike Apt 115
+1662 Harrisburg Pike Apt 218
+1662 Harrisburg Pike Apt 114
+1662 Harrisburg Pike Apt 203
+1662 Harrisburg Pike Apt 213
+1662 Harrisburg Pike Apt 216
+1662 Harrisburg Pike Apt 202
+1662 Harrisburg Pike Apt 205
+1662 Harrisburg Pike Apt 102
+1662 Harrisburg Pike Apt 103
+1662 Harrisburg Pike Apt 215
+1662 Harrisburg Pike Apt 217
+1662 Harrisburg Pike Apt 211
+1662 Harrisburg Pike Apt 107
+1662 Harrisburg Pike Apt 220
+1662 Harrisburg Pike Apt 222
+1662 Harrisburg Pike Apt 112
+1662 Harrisburg Pike Apt 105
+1662 Harrisburg Pike Apt 106
+1662 Harrisburg Pike Apt 116
+2051 Sullivant Ave Unit A
+1600 W Broad St Unit I
+1606 W Broad St Unit D
+1600 W Broad St Unit A
+1600 W Broad St Unit K
+1620 W Broad St Unit C
+1600 W Broad St Unit H
+1600 W Broad St Unit F
+1600 W Broad St Unit E
+1600 W Broad St Unit G
+1600 W Broad St Unit J
+1610 W Broad St Unit B
+1740 Harmon Ave Apt F
+1740 Harmon Ave Apt H
+1740 Harmon Ave Apt G
+1740 Harmon Ave Apt C
+1670 Harmon Ave Apt B
+1740 Harmon Ave Apt D
+1670 Harmon Ave Apt C
+1670 Harmon Ave Apt D
+1790 Harmon Ave Apt D
+1790 Harmon Ave Apt C
+1790 Harmon Ave Apt A
+1790 Harmon Ave Apt B
+1740 Harmon Ave Apt A
+1670 Harmon Ave Apt A
+1740 Harmon Ave Apt E
+1740 Harmon Ave Apt B
+

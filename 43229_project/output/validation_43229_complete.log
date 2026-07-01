@@ -1,0 +1,180 @@
+[12100] Processed | Valid: 11899 | Invalid:   201 | Est. time: 60.5s
+[12200] Processed | Valid: 11999 | Invalid:   201 | Est. time: 61.0s
+[12300] Processed | Valid: 12094 | Invalid:   206 | Est. time: 61.5s
+[12400] Processed | Valid: 12191 | Invalid:   209 | Est. time: 62.0s
+[12500] Processed | Valid: 12289 | Invalid:   211 | Est. time: 62.5s
+[12600] Processed | Valid: 12387 | Invalid:   213 | Est. time: 63.0s
+[12700] Processed | Valid: 12482 | Invalid:   218 | Est. time: 63.5s
+[12800] Processed | Valid: 12579 | Invalid:   221 | Est. time: 64.0s
+[12900] Processed | Valid: 12675 | Invalid:   225 | Est. time: 64.5s
+[13000] Processed | Valid: 12773 | Invalid:   227 | Est. time: 65.0s
+>>> Checkpoint saved at row 13000
+[13100] Processed | Valid: 12871 | Invalid:   229 | Est. time: 65.5s
+[13200] Processed | Valid: 12969 | Invalid:   231 | Est. time: 66.0s
+[13300] Processed | Valid: 13065 | Invalid:   235 | Est. time: 66.5s
+[13400] Processed | Valid: 13159 | Invalid:   241 | Est. time: 67.0s
+[13500] Processed | Valid: 13258 | Invalid:   242 | Est. time: 67.5s
+[13600] Processed | Valid: 13357 | Invalid:   243 | Est. time: 68.0s
+[13700] Processed | Valid: 13455 | Invalid:   245 | Est. time: 68.5s
+[13800] Processed | Valid: 13552 | Invalid:   248 | Est. time: 69.0s
+[13900] Processed | Valid: 13648 | Invalid:   252 | Est. time: 69.5s
+[14000] Processed | Valid: 13743 | Invalid:   257 | Est. time: 70.0s
+>>> Checkpoint saved at row 14000
+[14100] Processed | Valid: 13842 | Invalid:   258 | Est. time: 70.5s
+[14200] Processed | Valid: 13939 | Invalid:   261 | Est. time: 71.0s
+[14300] Processed | Valid: 14033 | Invalid:   267 | Est. time: 71.5s
+[14400] Processed | Valid: 14123 | Invalid:   277 | Est. time: 72.0s
+[14500] Processed | Valid: 14223 | Invalid:   277 | Est. time: 72.5s
+[14600] Processed | Valid: 14321 | Invalid:   279 | Est. time: 73.0s
+[14700] Processed | Valid: 14414 | Invalid:   286 | Est. time: 73.5s
+[14800] Processed | Valid: 14514 | Invalid:   286 | Est. time: 74.0s
+[14900] Processed | Valid: 14611 | Invalid:   289 | Est. time: 74.5s
+[15000] Processed | Valid: 14705 | Invalid:   295 | Est. time: 75.0s
+>>> Checkpoint saved at row 15000
+[15100] Processed | Valid: 14800 | Invalid:   300 | Est. time: 75.5s
+[15200] Processed | Valid: 14896 | Invalid:   304 | Est. time: 76.0s
+[15300] Processed | Valid: 14993 | Invalid:   307 | Est. time: 76.5s
+[15400] Processed | Valid: 15087 | Invalid:   313 | Est. time: 77.0s
+[15500] Processed | Valid: 15185 | Invalid:   315 | Est. time: 77.5s
+[15600] Processed | Valid: 15275 | Invalid:   325 | Est. time: 78.0s
+[15700] Processed | Valid: 15372 | Invalid:   328 | Est. time: 78.5s
+[15800] Processed | Valid: 15472 | Invalid:   328 | Est. time: 79.0s
+[15900] Processed | Valid: 15567 | Invalid:   333 | Est. time: 79.5s
+[16000] Processed | Valid: 15661 | Invalid:   339 | Est. time: 80.0s
+>>> Checkpoint saved at row 16000
+[16100] Processed | Valid: 15756 | Invalid:   344 | Est. time: 80.5s
+[16200] Processed | Valid: 15854 | Invalid:   346 | Est. time: 81.0s
+[16300] Processed | Valid: 15945 | Invalid:   355 | Est. time: 81.5s
+[16400] Processed | Valid: 16043 | Invalid:   357 | Est. time: 82.0s
+[16500] Processed | Valid: 16141 | Invalid:   359 | Est. time: 82.5s
+[16600] Processed | Valid: 16232 | Invalid:   368 | Est. time: 83.0s
+[16700] Processed | Valid: 16330 | Invalid:   370 | Est. time: 83.5s
+[16800] Processed | Valid: 16425 | Invalid:   375 | Est. time: 84.0s
+[16900] Processed | Valid: 16522 | Invalid:   378 | Est. time: 84.5s
+[17000] Processed | Valid: 16620 | Invalid:   380 | Est. time: 85.0s
+>>> Checkpoint saved at row 17000
+[17100] Processed | Valid: 16716 | Invalid:   384 | Est. time: 85.5s
+[17200] Processed | Valid: 16810 | Invalid:   390 | Est. time: 86.0s
+[17300] Processed | Valid: 16906 | Invalid:   394 | Est. time: 86.5s
+[17400] Processed | Valid: 16998 | Invalid:   402 | Est. time: 87.0s
+[17500] Processed | Valid: 17096 | Invalid:   404 | Est. time: 87.5s
+[17600] Processed | Valid: 17192 | Invalid:   408 | Est. time: 88.0s
+[17700] Processed | Valid: 17288 | Invalid:   412 | Est. time: 88.5s
+[17800] Processed | Valid: 17387 | Invalid:   413 | Est. time: 89.0s
+[17900] Processed | Valid: 17486 | Invalid:   414 | Est. time: 89.5s
+[18000] Processed | Valid: 17581 | Invalid:   419 | Est. time: 90.0s
+>>> Checkpoint saved at row 18000
+[18100] Processed | Valid: 17681 | Invalid:   419 | Est. time: 90.5s
+[18200] Processed | Valid: 17777 | Invalid:   423 | Est. time: 91.0s
+[18300] Processed | Valid: 17874 | Invalid:   426 | Est. time: 91.5s
+[18400] Processed | Valid: 17972 | Invalid:   428 | Est. time: 92.0s
+[18500] Processed | Valid: 18069 | Invalid:   431 | Est. time: 92.5s
+[18600] Processed | Valid: 18165 | Invalid:   435 | Est. time: 93.0s
+[18700] Processed | Valid: 18263 | Invalid:   437 | Est. time: 93.5s
+[18800] Processed | Valid: 18359 | Invalid:   441 | Est. time: 94.0s
+[18900] Processed | Valid: 18455 | Invalid:   445 | Est. time: 94.5s
+[19000] Processed | Valid: 18549 | Invalid:   451 | Est. time: 95.0s
+>>> Checkpoint saved at row 19000
+[19100] Processed | Valid: 18647 | Invalid:   453 | Est. time: 95.5s
+[19200] Processed | Valid: 18747 | Invalid:   453 | Est. time: 96.0s
+[19300] Processed | Valid: 18844 | Invalid:   456 | Est. time: 96.5s
+[19400] Processed | Valid: 18944 | Invalid:   456 | Est. time: 97.0s
+[19500] Processed | Valid: 19038 | Invalid:   462 | Est. time: 97.5s
+[19600] Processed | Valid: 19135 | Invalid:   465 | Est. time: 98.0s
+[19700] Processed | Valid: 19234 | Invalid:   466 | Est. time: 98.5s
+[19800] Processed | Valid: 19329 | Invalid:   471 | Est. time: 99.0s
+[19900] Processed | Valid: 19428 | Invalid:   472 | Est. time: 99.5s
+[20000] Processed | Valid: 19525 | Invalid:   475 | Est. time: 100.0s
+>>> Checkpoint saved at row 20000
+[20100] Processed | Valid: 19624 | Invalid:   476 | Est. time: 100.5s
+[20200] Processed | Valid: 19719 | Invalid:   481 | Est. time: 101.0s
+[20300] Processed | Valid: 19817 | Invalid:   483 | Est. time: 101.5s
+[20400] Processed | Valid: 19914 | Invalid:   486 | Est. time: 102.0s
+[20500] Processed | Valid: 20007 | Invalid:   493 | Est. time: 102.5s
+[20600] Processed | Valid: 20104 | Invalid:   496 | Est. time: 103.0s
+[20700] Processed | Valid: 20200 | Invalid:   500 | Est. time: 103.5s
+[20800] Processed | Valid: 20297 | Invalid:   503 | Est. time: 104.0s
+[20900] Processed | Valid: 20394 | Invalid:   506 | Est. time: 104.5s
+[21000] Processed | Valid: 20492 | Invalid:   508 | Est. time: 105.0s
+>>> Checkpoint saved at row 21000
+[21100] Processed | Valid: 20583 | Invalid:   517 | Est. time: 105.5s
+[21200] Processed | Valid: 20682 | Invalid:   518 | Est. time: 106.0s
+[21300] Processed | Valid: 20781 | Invalid:   519 | Est. time: 106.5s
+[21400] Processed | Valid: 20875 | Invalid:   525 | Est. time: 107.0s
+[21500] Processed | Valid: 20969 | Invalid:   531 | Est. time: 107.5s
+[21600] Processed | Valid: 21066 | Invalid:   534 | Est. time: 108.0s
+[21700] Processed | Valid: 21161 | Invalid:   539 | Est. time: 108.5s
+[21800] Processed | Valid: 21259 | Invalid:   541 | Est. time: 109.0s
+[21900] Processed | Valid: 21357 | Invalid:   543 | Est. time: 109.5s
+[22000] Processed | Valid: 21454 | Invalid:   546 | Est. time: 110.0s
+>>> Checkpoint saved at row 22000
+[22100] Processed | Valid: 21549 | Invalid:   551 | Est. time: 110.5s
+[22200] Processed | Valid: 21644 | Invalid:   556 | Est. time: 111.0s
+[22300] Processed | Valid: 21739 | Invalid:   561 | Est. time: 111.5s
+[22400] Processed | Valid: 21836 | Invalid:   564 | Est. time: 112.0s
+[22500] Processed | Valid: 21935 | Invalid:   565 | Est. time: 112.5s
+[22600] Processed | Valid: 22033 | Invalid:   567 | Est. time: 113.0s
+[22700] Processed | Valid: 22131 | Invalid:   569 | Est. time: 113.5s
+[22800] Processed | Valid: 22231 | Invalid:   569 | Est. time: 114.0s
+[22900] Processed | Valid: 22331 | Invalid:   569 | Est. time: 114.5s
+[23000] Processed | Valid: 22428 | Invalid:   572 | Est. time: 115.0s
+>>> Checkpoint saved at row 23000
+[23100] Processed | Valid: 22527 | Invalid:   573 | Est. time: 115.5s
+[23200] Processed | Valid: 22626 | Invalid:   574 | Est. time: 116.0s
+[23300] Processed | Valid: 22724 | Invalid:   576 | Est. time: 116.5s
+[23400] Processed | Valid: 22820 | Invalid:   580 | Est. time: 117.0s
+[23500] Processed | Valid: 22892 | Invalid:   608 | Est. time: 117.5s
+[23600] Processed | Valid: 22992 | Invalid:   608 | Est. time: 118.0s
+[23700] Processed | Valid: 23092 | Invalid:   608 | Est. time: 118.5s
+[23800] Processed | Valid: 23185 | Invalid:   615 | Est. time: 119.0s
+[23900] Processed | Valid: 23285 | Invalid:   615 | Est. time: 119.5s
+[24000] Processed | Valid: 23380 | Invalid:   620 | Est. time: 120.0s
+>>> Checkpoint saved at row 24000
+[24100] Processed | Valid: 23478 | Invalid:   622 | Est. time: 120.5s
+[24200] Processed | Valid: 23577 | Invalid:   623 | Est. time: 121.0s
+[24300] Processed | Valid: 23677 | Invalid:   623 | Est. time: 121.5s
+[24400] Processed | Valid: 23775 | Invalid:   625 | Est. time: 122.0s
+[24500] Processed | Valid: 23875 | Invalid:   625 | Est. time: 122.5s
+[24600] Processed | Valid: 23975 | Invalid:   625 | Est. time: 123.0s
+
+================================================================================
+VALIDATION COMPLETE
+================================================================================
+Total addresses: 24,698
+Valid: 24,073 (97.47%)
+Invalid: 625 (2.53%)
+Completed: 2025-11-21 05:14:34
+================================================================================
+
+SAMPLE UNIT ADDRESSES (VALIDATED WITH UNITS PRESERVED):
+--------------------------------------------------------------------------------
+Original: 6665 HUNTLEY RD Worthington, OH, 43229, UNIT G
+Validated: 6665 HUNTLEY RD, UNIT G, COLUMBUS, OH, 43229
+
+Original: 6999 HUNTLEY RD Worthington, OH, 43229, APT A
+Validated: 6999 HUNTLEY RD, APT A, COLUMBUS, OH, 43229
+
+Original: 6999 HUNTLEY RD Worthington, OH, 43229, APT N
+Validated: 6999 HUNTLEY RD, APT N, COLUMBUS, OH, 43229
+
+Original: 6185 HUNTLEY RD Worthington, OH, 43229, UNIT L
+Validated: 6185 HUNTLEY RD, UNIT L, COLUMBUS, OH, 43229
+
+Original: 460 SCHROCK RD Worthington, OH, 43229, UNIT A
+Validated: 460 W SCHROCK RD, UNIT A, COLUMBUS, OH, 43229
+
+Original: 6665 HUNTLEY RD Worthington, OH, 43229, UNIT B
+Validated: 6665 HUNTLEY RD, UNIT B, COLUMBUS, OH, 43229
+
+Original: 460 SCHROCK RD Worthington, OH, 43229, UNIT D
+Validated: 460 W SCHROCK RD, UNIT D, COLUMBUS, OH, 43229
+
+Original: 6171 HUNTLEY RD Worthington, OH, 43229, UNIT J
+Validated: 6171 HUNTLEY RD, UNIT J, COLUMBUS, OH, 43229
+
+Original: 6665 HUNTLEY RD Worthington, OH, 43229, UNIT M
+Validated: 6665 HUNTLEY RD, UNIT M, COLUMBUS, OH, 43229
+
+Original: 6665 HUNTLEY RD Worthington, OH, 43229, UNIT A
+Validated: 6665 HUNTLEY RD, UNIT A, COLUMBUS, OH, 43229
+
